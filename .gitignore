@@ -1,2 +1,6 @@
 .DS_Store
 .css
+
+audio_multi_fs/*
+*.asv
+
