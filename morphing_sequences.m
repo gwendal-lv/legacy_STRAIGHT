@@ -7,7 +7,6 @@ n_steps = 9;
 morph_factors = 0.0:(1/(n_steps-1)):1.0;
 n_morph_seq_with_errors = 0;
 
-for seq_index=207:1514  % 0:1514
 for seq_index=0:1514
     disp(['===== Sequence ' num2str(seq_index) ' =====']);
     
